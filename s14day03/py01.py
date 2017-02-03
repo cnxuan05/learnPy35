@@ -90,4 +90,31 @@ def func04():
     pass
 
 
-func04()
+def func05(x, *args):
+    print((args))  # 函数的非固定参数 处理为元组的形式
+
+    # 默认参数
+    # 参数组 == 默认参数(在函数调用时可有可无) 关键字参数(形参存在) 位置参数
+    # 实参的数目不固定
+
+
+    pass
+
+
+def func06(**kwargs):
+    print(kwargs)
+    pass
+
+
+# func05(*(1, 2, 3, 4, 5))
+# func06(name='alex', age='9')
+
+
+
+
+
+
+
+
+
+
