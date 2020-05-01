@@ -26,12 +26,12 @@ def generate_gua():
         pre_gua.append(n_data)
         if 9 == n_data:
             aft_gua.append(6)
-        elif 8 == n_data:
+        elif 6 == n_data:
             aft_gua.append(9)
         else:
             aft_gua.append(n_data)
-    # print(list(pre_gua))
-    # print(list(aft_gua))
+    print(list(pre_gua))
+    print(list(aft_gua))
     print('#' * 6)
 
     new_pre_gua = [0 if m % 2 == 0 else 1 for m in pre_gua]
@@ -98,10 +98,9 @@ def get_rank_num(pnum):
     elif pnum <= 12 and pnum > 6:
         return 13 - pnum
     elif pnum <= 18 and pnum > 12:
-        return pnum - 11
+        return pnum - 12
     elif pnum <= 24 and pnum > 18:
         return 25 - pnum
-
 
 def fre_create():
     import time
