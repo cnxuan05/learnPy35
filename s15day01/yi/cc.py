@@ -95,21 +95,19 @@ def get_sixth_eight(q_list):
 def get_rank_num(pnum):
     if pnum <= 6:
         return pnum
-    elif pnum <= 11 and pnum > 6:
-        return 12 - pnum
-    elif pnum <= 16 and pnum > 11:
-        return pnum - 10
-    elif pnum <= 21 and pnum > 16:
-        return 22 - pnum
-
-    return
+    elif pnum <= 12 and pnum > 6:
+        return 13 - pnum
+    elif pnum <= 18 and pnum > 12:
+        return pnum - 11
+    elif pnum <= 24 and pnum > 18:
+        return 25 - pnum
 
 
 def fre_create():
     import time
     from tqdm import tqdm
 
-    for u in range(9999):
+    for u in range(1):
         generate_gua()
         # time.sleep(60)
 
