@@ -4,7 +4,7 @@ create new conf file ,modify ignore file
 
 create s1 module
 
-
+create s2 module
 
 
 
