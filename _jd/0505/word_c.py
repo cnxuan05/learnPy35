@@ -76,4 +76,3 @@ my_cloud.to_file('2013.jpg')
 
 
 
-
