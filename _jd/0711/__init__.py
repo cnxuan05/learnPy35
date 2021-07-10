@@ -29,5 +29,8 @@ rm -rf
 rm *
 
 
+gzip
+gzip -d
+
 
 '''
