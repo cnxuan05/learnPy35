@@ -24,5 +24,10 @@ find
 
 grep
 
+rm -r
+rm -rf
+rm *
+
+
 
 '''
