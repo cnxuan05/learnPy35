@@ -5,7 +5,7 @@
 
 192.168.1.23
 8000
-/192.168.74.128
+/192.168.74.130
 python
 chuanzhi
 
@@ -19,6 +19,10 @@ itcast
 
 root
 chuanzhi
+
+find
+
+grep
 
 
 '''
