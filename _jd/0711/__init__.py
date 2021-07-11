@@ -41,4 +41,18 @@ i want to
 
 i think it
 
+big first = reverse
+
+little first = line
+
+
+
+
+
+
+
+
+
+
+
 '''
