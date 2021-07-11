@@ -32,5 +32,13 @@ rm *
 gzip
 gzip -d
 
+useradd -d - -m xxx
+
+passwd xxx
+
+
+i want to
+
+i think it
 
 '''
