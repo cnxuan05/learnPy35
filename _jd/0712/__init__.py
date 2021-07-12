@@ -20,7 +20,15 @@ python/chuanzhi
 root/chuanzhi
 
 
+#define MAX 100
+const int max = 100;
 
+
+mount /dev/nvme0n1p1 /opt/data
+
+add disk for ai data
+
+MessageBoxA("","this is message ","title",MB_OK);
 
 '''
 
