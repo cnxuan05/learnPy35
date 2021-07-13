@@ -31,5 +31,24 @@ fputs(s, stdout);
 strlen
 valid str length , no '\0', exclude
 
+reverse a chinese character list...
+
+3*1
+
+3*2
+
+3*3
+
+3*n
+
+low-high
+i len-i+1
+
+3i-3
+3i-2
+3i-1
+
+gbk
+utf-8
 
 '''
