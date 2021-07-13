@@ -28,4 +28,8 @@ add \r\n on end...
 
 fputs(s, stdout);
 
+strlen
+valid str length , no '\0', exclude
+
+
 '''
