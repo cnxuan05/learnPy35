@@ -7,7 +7,10 @@ tar -cf - /opt/data/04 | ssh root@192.168.1.26 'tar -xvf - -C /opt/'
 
 
 
+stack overflow
+- K
 
+heap G
 
 
 
