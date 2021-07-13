@@ -12,10 +12,14 @@ stack overflow
 
 heap G
 
+scanf
 
+gets
 
+fgets
+stdin
 
-
+stdout
 
 
 

@@ -15,7 +15,11 @@ int main()
     }
     int a = 0xe4b0a0;
 
-    printf("%d", a);
+    //printf("%d\n", a);
+
+    char b[3] = {0};
+    fgets(b,sizeof(b)/sizeof(char),stdin);
+    printf("%s\n", b);
 
     return 0;
 }
