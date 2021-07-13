@@ -22,7 +22,10 @@ stdin
 stdout
 
 man 3 scanf
-man 3 puts
 
+man 3 puts
+add \r\n on end...
+
+fputs(s, stdout);
 
 '''
