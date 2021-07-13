@@ -51,4 +51,14 @@ i len-i+1
 gbk
 utf-8
 
+
+strcat(a,b)
+
+strncat
+for str len error . stack overflow error...
+
+
+
+
+
 '''
