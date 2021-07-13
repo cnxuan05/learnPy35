@@ -21,5 +21,10 @@ int main()
     fgets(b,sizeof(b)/sizeof(char),stdin);
     printf("%s\n", b);
 
+    char x[] = "hello world";
+    printf("%s\n", x);
+
+    printf("1\n#\n");
+
     return 0;
 }

@@ -21,6 +21,8 @@ stdin
 
 stdout
 
+man 3 scanf
+man 3 puts
 
 
 '''
