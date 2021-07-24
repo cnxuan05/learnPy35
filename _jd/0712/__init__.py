@@ -30,6 +30,16 @@ add disk for ai data
 
 MessageBoxA("","this is message ","title",MB_OK);
 
+
+FindWindowA
+HWND
+ShowWindow( ,SW_NORMAL);
+- SW_HIDE
+
+for(;;)
+
+
+
 '''
 
 

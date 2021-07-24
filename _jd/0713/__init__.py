@@ -109,4 +109,7 @@ atoi
 int t  = (int)time(NULL)
 srand(t)
 
+data  = rand()
+
+
 '''

@@ -45,9 +45,20 @@ big first = reverse
 
 little first = line
 
+asm avoid get data from mem, from register
+
+192.168.111.201
+
+sid201
+
+system/oracle
+
+mysql
+
+root/mysql
 
 
-
+__declspec(dllexport)
 
 
 
